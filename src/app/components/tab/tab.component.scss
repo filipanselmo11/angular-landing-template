@@ -1,0 +1,31 @@
+.tab-component {
+  width: 966px;
+  height: 41.232px;
+  flex-shrink: 0;
+  display: flex;
+  position: absolute;
+  bottom: -4%;
+  left: 71%;
+
+  .trafic-lights {
+    width: 43.5px;
+    height: 10.496px;
+    flex-shrink: 0;
+  }
+
+  .url {
+    margin-left: 30%;
+  }
+
+  .url__icone {
+    width: 10.5px;
+    height: 11.303px;
+    position: absolute;
+    left: 31%;
+  }
+
+  .url__svg {
+    width: 40.94px;
+    height: 9.659px;
+  }
+}
